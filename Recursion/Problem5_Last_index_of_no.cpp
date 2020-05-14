@@ -18,3 +18,5 @@ int lastIndex(int input[], int size, int x) {
     }
     
 }
+
+//Write Main  
