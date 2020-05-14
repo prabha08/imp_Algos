@@ -20,3 +20,8 @@
       [https://www.geeksforgeeks.org/recursive-program-to-find-all-indices-of-a-number/]  
       Given an array of length N and an integer x, you need to find all the indexes where x is present in the input array. Save all the           indexes in an array (in increasing order).
       Do this recursively. Indexing in the array starts from 0.
+
+- [ ] **Problem 7 : Merge Sort**  
+       Time Complexity :-  Recurrance Relation - T(n) = 2 T(n/2) + O(n)  
+       
+       
