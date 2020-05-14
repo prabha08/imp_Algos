@@ -5,7 +5,7 @@
 - [ ] **Problem 2 : Number of Digits in a number**   
       Write the code to find out and return the number of digits present in a number recursively. 
       
-- [ ] **Problem 3 : Sum of Array**
+- [ ] **Problem 3 : Sum of Array**  
       Given an array of length N, you need to find and return the sum of all elements of the array.
       
 - [ ] **Problem 4 : First index of a number**  
