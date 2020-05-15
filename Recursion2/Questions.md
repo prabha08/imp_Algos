@@ -8,7 +8,7 @@
        Given an integer n, using phone keypad find out all the possible strings that can be made using digits of input n.  
        [ https://www.codechef.com/problems/ALET01 ]  
 
-- [ ] **Problem 3 : Print SubStrings of a string**
+- [ ] **Problem 3 : Print SubStrings of a string**   
       Given a string as an input. We need to write a program that will print all non-empty substrings of that given string.  
       [ https://www.geeksforgeeks.org/program-print-substrings-given-string/ ]  
       
