@@ -10,5 +10,10 @@
       
 - [ ] **Problem 5 : Merge Sort**   
 
-- [ ] **Problem 6 : Quick Sort**   
+- [ ] **Problem 6 : Quick Sort**  
+
+- [ ] **Problem 7 : Binary Search to find a number**   
+
+- [ ] **Problem 8 : Binary Search to find a number just less than given no**  
+
 
