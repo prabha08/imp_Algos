@@ -1,0 +1,13 @@
+#### Min Sapnning Tree   
+      - Covers all the vertex and has the overall least weight   
+      - A minimum spanning tree has (V – 1) edges where V is the number of vertices in the given graph.   
+- [ ] **Kruskals Algo**     
+      - Intro   
+      - Complexity   
+- [ ] **Cycle detection in Kruskal's**    
+      - Union Finder Algo   
+      - Union by rank and path compression   
+- [ ] **Prim's Algo**   
+      - Complexity  
+- [ ] **Dijkstra's Algo**   
+      - Complexity   
