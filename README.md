@@ -21,4 +21,5 @@ List of important Algorithms
 ##### 18. DP & Bitmasking 
 ##### 19. Number Theory 
 ##### 20. Game Theory 
-##### 21. Computational Geometry
+##### 21. Computational Geometry   
+##### 22. Essentials
