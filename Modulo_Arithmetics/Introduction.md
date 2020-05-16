@@ -14,4 +14,12 @@
 3. (a-b)%c = (a%c - b%c)%c    
 4. ~~(a/b)%c = (a%c / b%c)%c~~   - For division we need to take modulo inverse    
 
+### More...   
+
+- Range of modulo 0 <= m <= m-1     
+- If modulo is negative    
+    -5%3  =   -2    
+    do, (no%m+m)%m     
+    (-5%3 + 3)%3  =  1     
+
 
